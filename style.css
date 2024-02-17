@@ -17,9 +17,14 @@ body{
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 4px;
+    margin-top: 10px;
 }
 
 #copyButton:hover {
     background-color: rgba(36, 100, 36, 0.812);
     
+}
+
+#colorCode{
+    font-size: 20px;
 }
