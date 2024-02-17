@@ -1,0 +1,3 @@
+const generateRGBColor = () => {
+    Math.random()
+}
